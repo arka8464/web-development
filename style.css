@@ -3,8 +3,8 @@
 
 
 :root {
-    --primary-color: = yellow;
-} 
+    --primary-color:=yellow;
+    } 
 
 h1{
     color: black;
@@ -30,7 +30,13 @@ max-width: 600px;
 margin: auto;
 
 }
-. link {
+/* . link {
      text-decoration: none;
     padding: 1 rem,1 rem;
+} */primary
+
+/* links */
+.primaryLink{
+
+    color:var--primary-color ;
 }
